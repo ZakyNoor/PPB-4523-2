@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/abu"
+    tools:context=".MainActivity2">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/teal_700"
+        android:layout_marginTop="550dp">
+        <ImageView
+            android:id="@+id/foto2"
+            android:layout_width="75dp"
+            android:layout_height="75dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginTop="25dp"
+            android:src="@mipmap/ic_launcher" />
+
+        <TextView
+            android:id="@+id/nama2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="130dp"
+            android:layout_marginTop="50dp"
+            android:text="Nama Makanan"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="110dp"
+            android:layout_marginLeft="30dp"
+            android:textSize="17dp"
+            android:text="Harga :"
+            android:textStyle="bold"
+            />
+
+        <TextView
+            android:id="@+id/harga2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="110dp"
+            android:layout_marginLeft="200dp"
+            android:textSize="17dp"
+            android:text="harga"
+            android:textStyle="italic"
+            />
+        <Button
+            android:layout_width="100dp"
+            android:layout_height="35dp"
+            android:layout_marginLeft="310dp"
+            android:layout_marginTop="140dp"
+            android:text="Beli"
+            android:textSize="13dp"
+            android:gravity="center"
+            />
+    </RelativeLayout>
+
+</RelativeLayout>
