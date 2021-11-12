@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AplikasiMenuMakanan</string>
+
+    <string-array name="menu_makanan">
+        <item>Ayam Lombok Ijo</item>
+        <item>Sate Ayam</item>
+        <item>Sate Kambing</item>
+        <item>Es Teh Manis</item>
+    </string-array>
+
+    <string-array name="harga">
+        <item>Rp32.000,-</item>
+        <item>Rp20.000,-</item>
+        <item>Rp45.000,-</item>
+        <item>Rp3.000,-</item>
+    </string-array>
+</resources>
