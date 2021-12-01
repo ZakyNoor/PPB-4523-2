@@ -67,9 +67,9 @@ public class MainActivity extends AppCompatActivity {
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
                 String noid= listviewku.get(position).toString();
                 String nomor= noid.substring(0,2);
-
                 String nama= listviewku.get(position).toString();
-//                String namae= nama.substring(1,10);
+                String namae= nama.substring(1,10);
+
                 if(nama !=null && nama!= ""){
                     Intent intent = new Intent(MainActivity.this, UpdateData.class);
                     intent.putExtra("data1", nomor);
