@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "215926581808",
+    "project_id": "zakyprojek-836e8",
+    "storage_bucket": "zakyprojek-836e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215926581808:android:dd9996d04419f0f38b1bf5",
+        "android_client_info": {
+          "package_name": "com.zakynoor.myfirebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215926581808-gfq0h9ojj0il1h2591difqjc86lfpiir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQIUqu_dGXwrDjksTcYoxubKlq9a2i3a8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215926581808-gfq0h9ojj0il1h2591difqjc86lfpiir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
