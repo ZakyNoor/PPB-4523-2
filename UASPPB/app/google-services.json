@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "758445672780",
+    "project_id": "uasppb-f2c19",
+    "storage_bucket": "uasppb-f2c19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758445672780:android:e82be7ce18d1ba8be867e9",
+        "android_client_info": {
+          "package_name": "com.zakynoor.uasppb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758445672780-pif9a75av154hd96r2dbcpgpcrrad096.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdZLpaFa-ED5INbSvOh3lXLY_a5uUgC2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758445672780-pif9a75av154hd96r2dbcpgpcrrad096.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
